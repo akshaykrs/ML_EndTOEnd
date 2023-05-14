@@ -1,0 +1,8 @@
+README.md
+setup.py
+EtoEProject.egg-info/PKG-INFO
+EtoEProject.egg-info/SOURCES.txt
+EtoEProject.egg-info/dependency_links.txt
+EtoEProject.egg-info/requires.txt
+EtoEProject.egg-info/top_level.txt
+src/__init__.py
